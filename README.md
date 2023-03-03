@@ -1,2 +1,2 @@
-# mermaid-flow-feedback
-Leave your feedback for Mermaid Flow here. www.mermaidflow.app
+# Mermaid Flow Feedback
+Leave your feedback for [Mermaid Flow](www.mermaidflow.app) here.
