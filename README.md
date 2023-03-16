@@ -1,5 +1,5 @@
 # Mermaid Flow Feedback
-Leave your feedback for [Mermaid Flow](www.mermaidflow.app) here.
+Leave your feedback for [Mermaid Flow](https://www.mermaidflow.app) here.
 
 ## If you want your issue to be prioritized you may sponsor the project!
 
