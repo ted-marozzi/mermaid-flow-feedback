@@ -12,4 +12,4 @@ I can't guarantee I will be able to fix your issue but it will be looked at earl
 
 ## Roadmap
 
-See the current roadmap [here](https://github.com/users/ted-marozzi/projects/4/views/1)
+See the current roadmap [here](https://github.com/users/ted-marozzi/projects/4/views/1).
