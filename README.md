@@ -1,9 +1,9 @@
 # Mermaid Flow Feedback
 Leave your feedback for [Mermaid Flow](https://www.mermaidflow.app) here.
 
-## If you want your issue to be prioritized you may sponsor the project!
+## Sponsor this project!
 
-I can't guarantee I will be able to fix your issue but it will be looked at earlier.
+Help support developement of features and new diagram types by sponsoring this project below. 
 
 [Sponsor Me ❤️](https://github.com/sponsors/ted-marozzi)
 
